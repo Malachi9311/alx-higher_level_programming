@@ -1,4 +1,3 @@
-carrie@ubuntu:0x01$ cat lists.h 
 #ifndef LISTS_H
 #define LISTS_H
 
